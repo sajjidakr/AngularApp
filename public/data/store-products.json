@@ -12,7 +12,24 @@
       "images/gem-05.gif",
       "images/gem-09.gif"
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "stars":"4",
+        "body":"Loved the Product",
+        "author":"sajid@gmail.com"
+      },
+      {
+        "stars":"4",
+        "body":"Loved the Product",
+        "author":"ahmed@gmail.com"
+      },
+      {
+        "stars":"4",
+        "body":"Loved the Product",
+        "author":"able.saeed@gmail.com"
+      }
+
+    ]
   },
   {
     "name": "Bloodstone",
